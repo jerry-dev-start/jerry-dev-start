@@ -1,120 +1,189 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1e2e,50:7c3aed,70:2563eb,90:06b6d4,100:10b981&height=220&section=header&text=Hello%20World%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Things%20That%20Matter&descSize=16&descAlignY=55&animation=fadeIn" />
+<!-- Cyberpunk Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,15:0a0e1a,30:0f1a2e,50:00f0ff,70:7b2dff,85:ff2d95,100:0d1117&height=300&section=header&text=JERRY%20DEV&fontSize=80&fontColor=00f0ff&fontAlignY=35&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%9A%A1&descSize=18&descAlignY=60&descColor=7b2dff&animation=twinkling" />
 
-<!-- Typing SVG -->
+<!-- Typing SVG - Cyber Style -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Go+%7C+Vue+%7C+React+%7C+Java+%7C+Flutter;Crafting+Elegant+Solutions+to+Complex+Problems;Open+Source+Enthusiast+%26+Lifelong+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E+Go+%7C+Vue+%7C+React+%7C+Java+%7C+Flutter;%3E+Building+the+Future+with+Code;%3E+System.out.println(%22Hello+World%22)%3B" />
 </a>
 
 <br/>
+<br/>
 
-<!-- Social Badges - 请替换 YOUR_USERNAME -->
-[![GitHub](https://img.shields.io/badge/jerry-dev-start?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerry-dev-start)
-[![Blog](https://img.shields.io/badge/Blog-Visit-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.com)
+<!-- Neon Badges -->
+[![GitHub](https://img.shields.io/badge/-%40jerry--dev--start-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff)](https://github.com/jerry-dev-start)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=jerry-dev-start&color=00f0ff&style=for-the-badge&label=VISITORS)](https://github.com/jerry-dev-start)
 
 </div>
 
-<!-- About Me -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<br/>
 
-```go
-package main
+<!-- Terminal Style About Me -->
+<div align="center">
 
-type Developer struct {
-    Name      string
-    Role      string
-    Languages []string
-    Frontend  []string
-    Backend   []string
-    Mobile    []string
-    DevOps    []string
-}
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗     ║
+║   ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗   ║
+║   ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝   ║
+║   ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝    ║
+║   ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║        ║
+║   ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-func main() {
-    me := Developer{
-        Name:      "YOUR_NAME",
-        Role:      "Full Stack Developer",
-        Languages: []string{"Go", "Java", "JavaScript", "TypeScript", "Dart"},
-        Frontend:  []string{"Vue.js", "React", "Next.js", "TailwindCSS"},
-        Backend:   []string{"Gin", "Spring Boot", "gRPC", "GraphQL"},
-        Mobile:    []string{"Flutter", "Android"},
-        DevOps:    []string{"Docker", "K8s", "GitHub Actions", "Linux"},
-    }
-    me.BuildSomethingAwesome()
+</div>
+
+<!-- About Me - Cyber Terminal -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;`$ cat about_me.json`
+
+```json
+{
+  "name": "Jerry",
+  "title": "Full Stack Developer",
+  "location": "Earth, Milky Way",
+  "languages": ["Go", "Java", "JavaScript", "TypeScript", "Dart"],
+  "frontend": ["Vue.js", "React", "Next.js", "TailwindCSS"],
+  "backend": ["Gin", "Spring Boot", "gRPC", "GraphQL"],
+  "mobile": ["Flutter", "Android"],
+  "devops": ["Docker", "Kubernetes", "GitHub Actions", "Linux"],
+  "databases": ["MySQL", "Redis", "PostgreSQL"],
+  "current_focus": "Building something awesome",
+  "fun_fact": "I mass-produce bugs and mass-fix them"
 }
 ```
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+<!-- Tech Stack - Cyber Grid -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;`$ ls tech_stack/`
 
 <div align="center">
-
-### 💻 Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🎨 Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br><sub>Go</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><sub>Java</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br><sub>TypeScript</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><sub>JavaScript</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br><sub>Dart</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+<br><sub>Vue.js</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><sub>React</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><sub>Next.js</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+<br><sub>TailwindCSS</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br><sub>Flutter</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br><sub>Spring Boot</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><sub>MySQL</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><sub>Redis</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><sub>PostgreSQL</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br><sub>GraphQL</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><sub>Docker</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="K8s" />
+<br><sub>Kubernetes</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br><sub>Nginx</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><sub>Linux</sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><sub>Git</sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<!-- 请将 YOUR_USERNAME 替换为你的 GitHub 用户名 -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-dev-start&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=2563eb&text_color=c9d1d9&ring_color=7c3aed" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-dev-start&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
-</div>
+<!-- GitHub Stats - Cyber Dashboard -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`$ neofetch --stats`
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-dev-start&theme=tokyonight_duo&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=c9d1d9&dates=8b949e" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-dev-start&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7b2dff&text_color=c9d1d9&ring_color=00f0ff&border_color=1a1e2e" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-dev-start&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8&border_color=1a1e2e" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerry-dev-start&bg_color=0d1117&color=7c3aed&line=2563eb&point=06b6d4&area=true&area_color=7c3aed&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-dev-start&hide_border=true&background=0d1117&stroke=1a1e2e&ring=00f0ff&fire=ff2d95&currStreakNum=00f0ff&sideNums=00f0ff&currStreakLabel=7b2dff&sideLabels=7b2dff&dates=8b949e" />
+</div>
+
+<br/>
+
+<!-- Activity Graph - Neon -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerry-dev-start&bg_color=0d1117&color=00f0ff&line=7b2dff&point=ff2d95&area=true&area_color=7b2dff&hide_border=true&custom_title=Contribution%20Matrix" />
 </div>
 
 ---
 
 <!-- Snake Animation -->
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"> &nbsp;`$ watch snake.exe`
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerry-dev-start/jerry-dev-start/output/github-snake-dark.svg" />
@@ -125,56 +194,91 @@ func main() {
 
 ---
 
-<!-- Trophy -->
-## 🏆 GitHub Trophies
+<!-- Trophy - Cyber -->
+## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28"> &nbsp;`$ cat achievements.log`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jerry-dev-start&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jerry-dev-start&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
 
-<!-- Metrics / Fun -->
-## ⚡ Fun Facts
+<!-- Metrics -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;`$ top -u jerry`
 
 <div align="center">
 
 ```text
-🌅 Morning    ██████░░░░░░░░░░░░░░  30%
-🌆 Daytime    ████████████░░░░░░░░  45%
-🌃 Evening    ████████░░░░░░░░░░░░  20%
-🌙 Night      ██░░░░░░░░░░░░░░░░░░   5%
+╔══════════════════════════════════════════════════════════════╗
+║                    ⚡ SYSTEM MONITOR ⚡                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🔥 Go          ████████████████████░░░░  85%  [MAIN]       ║
+║  ☕ Java         ██████████████████░░░░░░  75%  [ACTIVE]     ║
+║  🎯 Vue.js      ████████████████████░░░░  80%  [ACTIVE]     ║
+║  ⚛️ React       ██████████████████░░░░░░  75%  [ACTIVE]     ║
+║  📱 Flutter     ████████████████░░░░░░░░  65%  [LEARNING]   ║
+║  🐳 Docker      ██████████████████░░░░░░  75%  [ACTIVE]     ║
+║  ☸️ Kubernetes  ████████████████░░░░░░░░  65%  [LEARNING]   ║
+║                                                              ║
+║  UPTIME: ∞  |  BUGS FIXED: 999+  |  COFFEE: ████ FULL      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-- 🔭 Currently working on **something awesome**
-- 🌱 Always learning new technologies
-- 💬 Ask me about **Go, Vue, React, Java, Flutter**
-- ⚡ Fun fact: I turn ☕ into `<code/>`
-
 ---
 
-<!-- Quote -->
+<!-- Coding Activity -->
+## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="28"> &nbsp;`$ crontab -l`
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+```text
+ ┌──────────────────────────────────────────────────────┐
+ │           ⏰ DAILY CODING SCHEDULE                    │
+ ├──────────────────────────────────────────────────────┤
+ │                                                      │
+ │  🌅 08:00 - 12:00  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  Backend Dev   │
+ │  🌆 13:00 - 17:00  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Frontend Dev  │
+ │  🌃 19:00 - 22:00  ▓▓▓▓▓▓▓▓▓░░░░░░░  Side Projects │
+ │  🌙 22:00 - 23:00  ▓▓▓▓░░░░░░░░░░░░  Open Source   │
+ │                                                      │
+ │  STATUS: 🟢 ONLINE  |  MODE: 🔥 PRODUCTIVE          │
+ └──────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
 
-<!-- Visitor Counter -->
+<!-- Random Dev Quote -->
 <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=jerry-dev-start&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-
-  <br/>
-
-  **If you like my work, consider giving a ⭐**
-
-  <br/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </div>
+
+---
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,30:06b6d4,50:2563eb,70:7c3aed,90:1a1e2e,100:0d1117&height=120&section=footer" />
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "The only way to do great work is to love what you do."   ║
+║                                                              ║
+║          ⚡ Powered by Coffee & Curiosity ⚡                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+![Built with Love](https://img.shields.io/badge/Built%20with-❤️-ff2d95?style=for-the-badge&labelColor=0d1117)
+![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-00f0ff?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Online-7b2dff?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,15:0a0e1a,30:0f1a2e,50:00f0ff,70:7b2dff,85:ff2d95,100:0d1117&height=150&section=footer" />
