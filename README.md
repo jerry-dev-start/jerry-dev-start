@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges - 请替换 YOUR_USERNAME -->
-[![GitHub](https://img.shields.io/badge/GitHub-jerry-dev-start-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerry-dev-start)
+[![GitHub](https://img.shields.io/badge/jerry-dev-start?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerry-dev-start)
 [![Blog](https://img.shields.io/badge/Blog-Visit-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.com)
 
 </div>
