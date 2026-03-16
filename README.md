@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges - 请替换 YOUR_USERNAME -->
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-jerry-dev-start-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerry-dev-start)
 [![Blog](https://img.shields.io/badge/Blog-Visit-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.com)
 
 </div>
@@ -97,19 +97,19 @@ func main() {
 
 <!-- 请将 YOUR_USERNAME 替换为你的 GitHub 用户名 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=2563eb&text_color=c9d1d9&ring_color=7c3aed" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-dev-start&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=2563eb&text_color=c9d1d9&ring_color=7c3aed" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-dev-start&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight_duo&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=c9d1d9&dates=8b949e" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-dev-start&theme=tokyonight_duo&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=7c3aed&line=2563eb&point=06b6d4&area=true&area_color=7c3aed&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerry-dev-start&bg_color=0d1117&color=7c3aed&line=2563eb&point=06b6d4&area=true&area_color=7c3aed&hide_border=true" />
 </div>
 
 ---
@@ -117,9 +117,9 @@ func main() {
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerry-dev-start/jerry-dev-start/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jerry-dev-start/jerry-dev-start/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jerry-dev-start/jerry-dev-start/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -129,7 +129,7 @@ func main() {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jerry-dev-start&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -165,7 +165,7 @@ func main() {
 <!-- Visitor Counter -->
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=jerry-dev-start&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
   <br/>
 
